@@ -20,4 +20,7 @@ Push the deployment workflow and Vite configuration to `main`. The
 **Deploy to GitHub Pages** workflow builds and publishes `dist` automatically.
 You can also run it manually from the Actions tab.
 
-Site URL: https://lovertecom.github.io/kbrunch/
+Set the Pages custom domain to `kbrunch.loverte.com`. Vite uses `/` as the
+base path for this custom domain.
+
+Site URL: https://kbrunch.loverte.com/
